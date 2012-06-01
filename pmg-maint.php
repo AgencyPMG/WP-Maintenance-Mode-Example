@@ -1,4 +1,4 @@
-<?php    
+<?php
 /*
 Plugin Name: PMG Maintenance Mode
 Plugin URI: 
